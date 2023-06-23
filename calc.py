@@ -12,7 +12,7 @@ class Calc:
     def mul(self, a, b):
         """Multiply two numbers"""
         return a * b
-    
+
     def div(self, a, b):
         """Divide two numbers"""
         return a / b
